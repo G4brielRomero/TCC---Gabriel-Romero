@@ -30,7 +30,7 @@ DALPIAZ, Fabiano; STURM, Arnon; GIESKE, Patrizia. Extraction of conceptual model
 
 ## Como citar
 
-ROMERO, Gabriel; GOMES, Franciene Duarte. Material suplementar: análise do uso de modelos de linguagem de grande escala na extração e especificação de requisitos a partir de histórias de usuário. [S. l.]: GitHub, 2026. Disponível em: https://github.com/USUARIO/REPOSITORIO. Acesso em: DATA.
+ROMERO, Gabriel; GOMES, Franciene Duarte. Material suplementar: análise do uso de modelos de linguagem de grande escala na extração e especificação de requisitos a partir de histórias de usuário. [S. l.]: GitHub, 2026. Disponível em: https://github.com/G4brielRomero/TCC-Gabriel-Romero. Acesso em: DATA.
 
 ## Licença
 
